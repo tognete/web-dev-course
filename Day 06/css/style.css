@@ -1,0 +1,9 @@
+h1 {
+  color: gold;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
