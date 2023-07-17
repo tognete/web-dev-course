@@ -7,7 +7,6 @@ h1 {
 }
 
 h2 {
-  color: blue;
   font-family: Arial;
 }
 
@@ -27,4 +26,16 @@ table, th, td {
 
 a[href*='post'] {
 	color: violet;
+}
+
+a:hover, a:focus {
+  color: aquamarine;
+}
+
+header h1 {
+  color: deeppink;
+}
+
+h1 {
+  color: teal !important;
 }
