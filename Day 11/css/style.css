@@ -1,0 +1,46 @@
+* {
+  font-family: Arial;
+}
+
+h1 {
+  color: green;
+  font-size: 80px;
+}
+
+h2 {
+  font-family: Arial, sans-serif;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.navbar-brand {
+  color: red;
+}
+
+#home-header {
+  background-image: url('../../img/home-bg.jpg');
+}
+
+a[href*='post'] {
+	color: violet;
+}
+
+a:hover, a:focus {
+  color: aquamarine;
+}
+
+span {
+  font-weight: bold;
+}
+
+header {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
